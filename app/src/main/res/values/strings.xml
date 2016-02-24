@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Conecciones</string>
+
+    <string name="info_text">Info</string>
+    <string name="action_add">Nuevo</string>
+    <string name="action_update">Refrescar</string>
+</resources>
